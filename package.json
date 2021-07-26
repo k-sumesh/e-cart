@@ -1,0 +1,21 @@
+{
+  "name": "e-cart",
+  "version": "1.0.0",
+  "description": "a micro front end project having three child app built using react and vue. The container is a react application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "cd auth && npm i && cd../container && npm i && cd../dashboard && npm i && cd../marketing && npm i "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-sumesh/e-cart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-sumesh/e-cart/issues"
+  },
+  "homepage": "https://github.com/k-sumesh/e-cart#readme"
+}
